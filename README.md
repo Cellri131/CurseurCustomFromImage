@@ -118,7 +118,7 @@ Les pixels `.` complètement entourés de `O` créent automatiquement un **trou 
 |---------|------|
 | `cursor.js` | Moteur de rendu (ne pas modifier) |
 | `cursor-data.js` | Données ASCII + configuration des couches |
-| `copilot.html` | Page de démo (CSS vars + 2 balises `<script>`) |
+| `result.html` | Page de démo (CSS vars + 2 balises `<script>`) |
 
 ### Intégrer le curseur sur une autre page
 
